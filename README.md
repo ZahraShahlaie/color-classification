@@ -52,3 +52,6 @@ Color classification
 
 به طور کلی، این کد پایتون فرآیند آموزش یک شبکه عصبی برای دسته‌بندی رنگ را، ارزیابی و عملکرد آن بر روی داده‌های نویزی را بررسی تحمل شبکه نسبت به نویز را نشان می‌دهد. 
 
+لینک فایل testimg برای استفاده در test dataset
+https://drive.google.com/file/d/1Si2NvoEFdZ0JDD-JMWAUO6Au9sMZvSsv/view?usp=sharing  
+
