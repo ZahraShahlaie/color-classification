@@ -40,6 +40,8 @@ The project involves training a neural network to classify monochrome images of 
 - The final model's accuracy is evaluated and plotted on the noisy test images. Overall, this Python demonstrates the process of training a neural network for color classification, assessing its performance on noisy data, and exploring the network's tolerance to noise. It covers various aspects of deep learning, including data preparation, model building, training, evaluation, and testing, making it a comprehensive example project for color classification. 
 
 
+Since in the downloaded file, the testimg folder was next to the colors folder and there were unlabeled test photos in that folder, first I deleted that folder in the training data and manually labeled the folder myself and uploaded it again.  and placed it in /content/testimg directory 
+
 
 Testimg file link for use in test dataset:
 https://drive.google.com/file/d/1Si2NvoEFdZ0JDD-JMWAUO6Au9sMZvSsv/view?usp=sharing  
