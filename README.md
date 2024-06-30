@@ -1,5 +1,7 @@
                                        Color - classification
 
+The main goal of this project is to evaluate the capability of Convolutional Neural Networks (CNNs) in detecting and classifying monochrome images based on different colors. It aims to investigate whether a CNN can accurately classify images according to various colors with high precision. Additionally, the project evaluates the network's performance on noisy data to understand how robust it is against noise and whether it can maintain its performance under such conditions.
+
 The project involves training a neural network to classify monochrome images of different colors such as blue, green, red, yellow, black, white, etc. The Python includes various steps, such as dataset preparation, model building, training, evaluation, and testing. Here's an explanation of each major step:
 1. Dataset Preparation:
  - The Python starts by importing necessary libraries and packages, including TensorFlow, Keras, NumPy, Matplotlib, and PIL (Python Imaging Library).
